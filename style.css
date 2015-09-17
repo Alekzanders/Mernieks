@@ -1,0 +1,20 @@
+.container .header li {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container .header li {
+    display: inline;
+}
+
+
+.about .block li {
+
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.about .block li {
+    display: inline;
+}
